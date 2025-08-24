@@ -7,7 +7,7 @@
 ## 🛠️ Habilidades y Tecnologías
 
 - **Lenguajes:** Java, Python, SQL, Ruby on Rails, JavaScript
-- **Frameworks/Librerías:** React, Maven
+- **Frameworks/Librerías:** Spring Boot, React, Maven
 - **Áreas de interés:** Desarrollo web, análisis de datos, visualización de datos, full-stack development
 
 ## 🚀 Proyecto Destacado
